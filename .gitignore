@@ -39,3 +39,7 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# k匿名位置隐私保护算法 - 大数据文件（可从原始数据重新生成）
+k匿名位置隐私保护算法/Geolife Trajectories 1.3/
+k匿名位置隐私保护算法/geolife_formatted.csv
